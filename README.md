@@ -7,4 +7,4 @@ Models are pre-trained and using transfer learning method, the model was retrain
 
 Dataset collection was semi-automated using OpenCV. Each class consists of +/- 1600 images.
 
-![alt text](https://github.com/rrwiyatn/face_recognition_tensorflow/blob/master/frame8.jpg)
+![alt text](https://github.com/rrwiyatn/face_recognition_tensorflow/blob/master/output.gif)
